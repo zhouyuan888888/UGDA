@@ -48,6 +48,9 @@ please consider to cite our  paper or give our project a start.
 }
 ```
 
+## Acknowledgment
+Thanks for the great works [ALICE](https://github.com/CanPeng123/FSCIL), [C-FSCIL](https://github.com/IBM/constrained-FSCIL), and [NC-FSCIL](https://github.com/NeuralCollapseApplications/FSCIL).
+
 
 
 
